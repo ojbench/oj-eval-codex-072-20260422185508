@@ -1,0 +1,9 @@
+# Build artifacts and OJ-required ignores
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+code
+build/
+*.o
+
